@@ -1,0 +1,14 @@
+#temperatureCalculatorContainer{
+    margin: auto;
+    background-color: aliceblue;
+    width: max(300px, 20%);
+    border: 3px solid;
+    border-radius: 30%;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 2px;
+}
+
+body{
+    background-color: aquamarine;
+}
